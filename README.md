@@ -15,7 +15,7 @@ There are probably much better tools than this (but this one is super simple to 
 
 # Example
 ```shell
-./mdtiletool.py misc/image-orig.jpg > image.asm
+./mdtiletool.py something.jpg > image.asm
 ```
 
 Resulting output looks like this
